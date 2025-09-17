@@ -65,4 +65,4 @@ Got a project in mind or an idea you’d love to test?
 We’re always open to exciting collaborations and challenges.
 
 📬 **Contact us**  
-→ keinzyt@gmail.com
+→ contact@sparksweb.fr
