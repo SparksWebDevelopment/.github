@@ -38,6 +38,12 @@ We're not just developers – we’re innovators. We love working on unique conc
 - **Tailored Approach**  
   Every client is unique. We adapt our solutions to fit your brand, needs, and audience.
 
+- **Deployment & Maintenance**
+  We take care of getting your site online, including hosting advice, domain setup, and configuration. Once your site is live, we can also keep it updated and running smoothly based on your needs
+
+- **Live Project Preview**
+  You get real-time access to the ongoing work so you can follow the progress and give feedback as we build.
+
 ---
 
 ## 🚀 Tech Stack Highlights
@@ -52,10 +58,10 @@ Node.js, Fastify, Rust (Actix Web)
 Docker, Kubernetes, GitHub Actions, CI/CD pipelines
 
 **Database:**  
-PostgreSQL, Redis, MongoDB
+PostgreSQL, MongoDB, Redis
 
 **Cloud:**  
-Google Cloud Platform (GCP), AWS, Netlify
+Google Cloud Platform (GCP), AWS, Vercel, Railway
 
 ---
 
